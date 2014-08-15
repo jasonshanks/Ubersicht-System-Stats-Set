@@ -1,6 +1,7 @@
 # System Stats Set<br/>(a widget collection for Üebersicht)
 
 ---
+![Screenshot](https://raw.githubusercontent.com/plmtr/Ubersicht-System-Stats-Set/master/screenshot.png)
 
 ## Overview
 Much thanks to the excellent open-source desktop widget platform Üebersicht that Felix Hageloh has created.
