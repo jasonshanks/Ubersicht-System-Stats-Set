@@ -38,17 +38,17 @@ style: """
   .widget-title
     font-size 10px
     text-transform uppercase
-    font-weight bold
+    font-weight 400
 
   .wrapper
     padding: 4px 6px 4px 6px
     position: relative
     background: rgba(#CE1C00, 0.6)
-    height:100%
+    height:90%
 
   .label
     position: absolute
-    top: 30px
+    top: 28px
     left: 10px
     font-size: 24px
     font-weight: 100
