@@ -1,5 +1,6 @@
-# System Stats Set (a widget collection for Üebersicht)
+# System Stats Set<br/>(a widget collection for Üebersicht)
 
+---
 
 ## Overview
 Much thanks to the excellent open-source desktop widget platform Üebersicht that Felix Hageloh has created.
